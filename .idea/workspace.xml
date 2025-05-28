@@ -4,8 +4,9 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="557c2d1a-e095-4fc5-a2c9-470c55774427" name="Changes" comment="lesson 3">
-      <change afterPath="$PROJECT_DIR$/3.4. Players.py" afterDir="false" />
+    <list default="true" id="557c2d1a-e095-4fc5-a2c9-470c55774427" name="Changes" comment="lesson 3.4">
+      <change afterPath="$PROJECT_DIR$/4.1 List comprehensions.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/4.2. Nice.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -62,6 +63,8 @@
     "Python.3.2.2. Films.executor": "Run",
     "Python.3.3 two list.executor": "Run",
     "Python.3.4. Players.executor": "Run",
+    "Python.4.1 List comprehensions.executor": "Run",
+    "Python.4.2. Nice.executor": "Run",
     "Python.books_ID.executor": "Run",
     "Python.test.executor": "Run",
     "RunOnceActivity.ShowReadmeOnStart": "true",
@@ -107,7 +110,8 @@
       <workItem from="1748247958942" duration="381000" />
       <workItem from="1748248550981" duration="2169000" />
       <workItem from="1748256495530" duration="440000" />
-      <workItem from="1748279990386" duration="272000" />
+      <workItem from="1748279990386" duration="420000" />
+      <workItem from="1748414539138" duration="3632000" />
     </task>
     <task id="LOCAL-00001" summary="1">
       <option name="closed" value="true" />
@@ -181,7 +185,15 @@
       <option name="project" value="LOCAL" />
       <updated>1748256934524</updated>
     </task>
-    <option name="localTasksCounter" value="10" />
+    <task id="LOCAL-00010" summary="lesson 3.4">
+      <option name="closed" value="true" />
+      <created>1748280289750</created>
+      <option name="number" value="00010" />
+      <option name="presentableId" value="LOCAL-00010" />
+      <option name="project" value="LOCAL" />
+      <updated>1748280289750</updated>
+    </task>
+    <option name="localTasksCounter" value="11" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -203,7 +215,8 @@
     <MESSAGE value="2.1 list" />
     <MESSAGE value="2.2 lesson up" />
     <MESSAGE value="lesson 3" />
-    <option name="LAST_COMMIT_MESSAGE" value="lesson 3" />
+    <MESSAGE value="lesson 3.4" />
+    <option name="LAST_COMMIT_MESSAGE" value="lesson 3.4" />
   </component>
   <component name="com.intellij.coverage.CoverageDataManagerImpl">
     <SUITE FILE_PATH="coverage/PythonProject$3_2__New_langs.coverage" NAME="3.2. New langs Coverage Results" MODIFIED="1748248857610" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
@@ -215,5 +228,7 @@
     <SUITE FILE_PATH="coverage/PythonProject$2_3_DZ.coverage" NAME="2.3.DZ Coverage Results" MODIFIED="1748248328654" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
     <SUITE FILE_PATH="coverage/PythonProject$2_2_Dragon.coverage" NAME="2.2.Dragon Coverage Results" MODIFIED="1748005736920" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
     <SUITE FILE_PATH="coverage/PythonProject$test.coverage" NAME="test Coverage Results" MODIFIED="1748004418512" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/PythonProject$4_1_List_comprehensions.coverage" NAME="4.1 List comprehensions Coverage Results" MODIFIED="1748415268463" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/PythonProject$4_2__Nice.coverage" NAME="4.2. Nice Coverage Results" MODIFIED="1748418176818" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
   </component>
 </project>
