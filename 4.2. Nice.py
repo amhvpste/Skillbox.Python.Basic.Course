@@ -12,3 +12,4 @@ print('Сума цін за кожен рік:',
       round(sum(prices_now), 2),
       round(sum(prices_first), 2),
       round(sum(prices_second), 2))
+2
