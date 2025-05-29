@@ -4,10 +4,12 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="557c2d1a-e095-4fc5-a2c9-470c55774427" name="Changes" comment="lesson 4.1 , 4.2">
-      <change afterPath="$PROJECT_DIR$/4.3.Team_fight.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/4.4. List past.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/4.5.LIst_index.py" afterDir="false" />
+    <list default="true" id="557c2d1a-e095-4fc5-a2c9-470c55774427" name="Changes" comment="lesson 4.3 , 4.4, 4.5">
+      <change afterPath="$PROJECT_DIR$/5.1 Home work.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/5.2 format.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/5.3 splitjoin.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/5.4 startwith.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/5.5. String format.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -71,6 +73,9 @@
     "Python.4.3.executor": "Run",
     "Python.4.4. List past.executor": "Run",
     "Python.4.5.LIst_index.executor": "Run",
+    "Python.5.2 format.executor": "Run",
+    "Python.5.4 startwith.executor": "Run",
+    "Python.5.5. String format.executor": "Run",
     "Python.books_ID.executor": "Run",
     "Python.test.executor": "Run",
     "RunOnceActivity.ShowReadmeOnStart": "true",
@@ -119,7 +124,9 @@
       <workItem from="1748279990386" duration="420000" />
       <workItem from="1748414539138" duration="3632000" />
       <workItem from="1748418305085" duration="176000" />
-      <workItem from="1748444413401" duration="1611000" />
+      <workItem from="1748444413401" duration="1690000" />
+      <workItem from="1748522146902" duration="1748000" />
+      <workItem from="1748542933892" duration="1855000" />
     </task>
     <task id="LOCAL-00001" summary="1">
       <option name="closed" value="true" />
@@ -217,7 +224,15 @@
       <option name="project" value="LOCAL" />
       <updated>1748418423675</updated>
     </task>
-    <option name="localTasksCounter" value="13" />
+    <task id="LOCAL-00013" summary="lesson 4.3 , 4.4, 4.5">
+      <option name="closed" value="true" />
+      <created>1748446117374</created>
+      <option name="number" value="00013" />
+      <option name="presentableId" value="LOCAL-00013" />
+      <option name="project" value="LOCAL" />
+      <updated>1748446117374</updated>
+    </task>
+    <option name="localTasksCounter" value="14" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -241,18 +256,22 @@
     <MESSAGE value="lesson 3" />
     <MESSAGE value="lesson 3.4" />
     <MESSAGE value="lesson 4.1 , 4.2" />
-    <option name="LAST_COMMIT_MESSAGE" value="lesson 4.1 , 4.2" />
+    <MESSAGE value="lesson 4.3 , 4.4, 4.5" />
+    <option name="LAST_COMMIT_MESSAGE" value="lesson 4.3 , 4.4, 4.5" />
   </component>
   <component name="com.intellij.coverage.CoverageDataManagerImpl">
     <SUITE FILE_PATH="coverage/PythonProject$3_2__New_langs.coverage" NAME="3.2. New langs Coverage Results" MODIFIED="1748248857610" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/PythonProject$5_4_startwith.coverage" NAME="5.4 startwith Coverage Results" MODIFIED="1748543846223" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
     <SUITE FILE_PATH="coverage/PythonProject$2_2_Scores.coverage" NAME="2.2.Scores Coverage Results" MODIFIED="1748004966178" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
     <SUITE FILE_PATH="coverage/PythonProject$3_4__Players.coverage" NAME="3.4. Players Coverage Results" MODIFIED="1748280227704" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
     <SUITE FILE_PATH="coverage/PythonProject$4_5_LIst_index.coverage" NAME="4.5.LIst_index Coverage Results" MODIFIED="1748446040029" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
     <SUITE FILE_PATH="coverage/PythonProject$3_3_two_list.coverage" NAME="3.3 two list Coverage Results" MODIFIED="1748256900202" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/PythonProject$5_2_format.coverage" NAME="5.2 format Coverage Results" MODIFIED="1748544781525" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
     <SUITE FILE_PATH="coverage/PythonProject$4_1_List_comprehensions.coverage" NAME="4.1 List comprehensions Coverage Results" MODIFIED="1748415268463" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
     <SUITE FILE_PATH="coverage/PythonProject$4_4__List_past.coverage" NAME="4.4. List past Coverage Results" MODIFIED="1748445535025" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
     <SUITE FILE_PATH="coverage/PythonProject$books_ID.coverage" NAME="books_ID Coverage Results" MODIFIED="1748004711385" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
     <SUITE FILE_PATH="coverage/PythonProject$3_2_2__Films.coverage" NAME="3.2.2. Films Coverage Results" MODIFIED="1748250635244" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/PythonProject$5_5__String_format.coverage" NAME="5.5. String format Coverage Results" MODIFIED="1748522952989" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
     <SUITE FILE_PATH="coverage/PythonProject$2_3_DZ.coverage" NAME="2.3.DZ Coverage Results" MODIFIED="1748248328654" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
     <SUITE FILE_PATH="coverage/PythonProject$2_2_Dragon.coverage" NAME="2.2.Dragon Coverage Results" MODIFIED="1748005736920" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
     <SUITE FILE_PATH="coverage/PythonProject$test.coverage" NAME="test Coverage Results" MODIFIED="1748004418512" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
