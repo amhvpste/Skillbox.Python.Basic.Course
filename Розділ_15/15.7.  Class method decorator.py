@@ -11,7 +11,7 @@ class Petr:
         instance._name = name.strip()
         instance._age = int(age.strip())
         return instance
-    # Приклад використання
+
         petr = Petr.create_from_string("Petr, 30")
         print(petr)
         print(petr._name)
